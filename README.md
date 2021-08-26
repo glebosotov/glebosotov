@@ -14,13 +14,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Swift" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swift.svg" />][https://swift.org]
-[<img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" />][https://flutter.dev]
-[<img align="left" alt="Apple Shortcuts" width="36px" src="https://img.icons8.com/ios/50/000000/shortcuts.png"/>][https://support.apple.com/en-gb/guide/shortcuts/]
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com]
-[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://git-scm.com]
-[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873036c0632819ad797942/topics/github/github.png" />][https://github.com]
-[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][https://en.wikipedia.org/wiki/Terminal_(macOS)]
+[<img align="left" alt="Swift" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swift.svg" />](https://swift.org)
+[<img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" />](https://flutter.dev)
+[<img align="left" alt="Apple Shortcuts" width="36px" src="https://img.icons8.com/ios/50/000000/shortcuts.png"/>](https://support.apple.com/en-gb/guide/shortcuts/)
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
+[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
 
 <br />
 <br />
