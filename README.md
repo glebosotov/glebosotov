@@ -15,11 +15,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Swift" width="36px" src="icons/swift.png" />](https://swift.org)
+[<img align="left" alt="Swift" width="36px" src="icons/swiftui.png" />](https://developer.apple.com/xcode/swiftui/)
 [<img align="left" alt="Flutter" width="36px" src="icons/flutter.png" />](https://flutter.dev)
 [<img align="left" alt="Apple Shortcuts" width="36px" src="icons/shortcuts.png"/>](https://support.apple.com/en-gb/guide/shortcuts/)
-[<img align="left" alt="Visual Studio Code" width="36px" src="icons/vscode.png" />](https://code.visualstudio.com)
 [<img align="left" alt="Git" width="36px" src="icons/git.png" />](https://git-scm.com)
 [<img align="left" alt="Terminal" width="36px" src="icons/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
+[<img align="left" alt="Visual Studio Code" width="36px" src="icons/vscode.png" />](https://code.visualstudio.com)
+[<img align="left" alt="Notion" width="36px" src="icons/notion.png" />](https://notion.so)
+[<img align="left" alt="Toggl Track" width="36px" src="icons/toggl.png" />](https://toggl.com)
 
 <br />
 <br />
