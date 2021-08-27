@@ -27,6 +27,9 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats-sable-ten.vercel.app//api?username=glebosotov)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [twitter]: https://twitter.com/glebosotov
 [telegram]: https://t.me/glebosotov
