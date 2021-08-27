@@ -27,11 +27,11 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats-sable-ten.vercel.app//api?username=glebosotov?theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sable-ten.vercel.app//api?username=glebosotov&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats-sable-ten.vercel.app/api/top-langs/?username=glebosotov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sable-ten.vercel.app/api/top-langs/?username=glebosotov&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
