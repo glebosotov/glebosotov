@@ -1,7 +1,7 @@
 ![Metrics](https://github.com/glebosotov/glebosotov/blob/master/github-metrics.svg)
 
 
-
+<br />
 
 ### Connect with me:
 
@@ -12,11 +12,6 @@
 [<img align="left" alt="Instagram" width="32px" src="icons/instagram.png" />][instagram]
 
 <br />
-
-
-
-[![Top Langs](https://github-readme-stats-sable-ten.vercel.app/api/top-langs/?username=glebosotov&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
