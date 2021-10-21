@@ -1,3 +1,6 @@
+![Metrics](https://github.com/glebosotov/glebosotov/blob/master/github-metrics.svg)
+
+
 ### Hi there, I'm Gleb Osotov 👋
 
 ## I'm a Student and a Developer
