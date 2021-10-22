@@ -1,8 +1,5 @@
 ![Metrics](https://github.com/glebosotov/glebosotov/blob/master/github-metrics.svg)
 
-
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Telegram" width="32px" src="icons/telegram.png" />][telegram]
@@ -10,10 +7,6 @@
 [<img align="left" alt="Twitter" width="32px" src="icons/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" src="icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="32px" src="icons/instagram.png" />][instagram]
-
-<br />
-
-
 
 [twitter]: https://twitter.com/glebosotov
 [telegram]: https://t.me/glebosotov
