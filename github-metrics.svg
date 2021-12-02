@@ -1824,7 +1824,7 @@
                                 <div class="infos">
                                     <div class="name">Not Afraid</div>
                                     <div class="artist">Eminem</div>
-                                    <div class="played-at">Played at 23:20:50 on 1 Dec 2021</div>
+                                    <div class="played-at">Played at 01:21:49 on 2 Dec 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -3999,7 +3999,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2021, 03:53:21 (timezone Europe/Moscow) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Dec 2021, 06:17:12 (timezone Europe/Moscow) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
