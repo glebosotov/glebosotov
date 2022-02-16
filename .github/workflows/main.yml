@@ -17,43 +17,10 @@ jobs:
 
           # Options
           user: glebosotov
-          template: classic
+          template: markdown
           base: header
 #           config_display: large
           config_timezone: Europe/Moscow
-          
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
-          
-          plugin_repositories: 100
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
-          plugin_repositories_featured: sfwalls-script, evolution-image-generation
-          
-          
-          plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 10
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
-          
-          
-          plugin_habits: yes
-          plugin_habits_days: 365
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes  
-        
-          
-          plugin_achievements: yes
-          plugin_achievements_threshold: B       # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
-          plugin_achievements_display: detailed   # Use compact display
-          
           
           plugin_music: yes
           plugin_music_provider: spotify # Use Spotify as provider
