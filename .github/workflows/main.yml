@@ -18,14 +18,5 @@ jobs:
           # Options
           user: glebosotov
           template: markdown
-          base: header
-#           config_display: large
-          config_timezone: Europe/Moscow
-          
-          plugin_music: yes
-          plugin_music_provider: spotify # Use Spotify as provider
-          plugin_music_mode: recent      # Set plugin mode
-          plugin_music_limit: 2          # Limit to 4 entries
-          plugin_music_played_at: yes    # Show timestamp (for spotify only)
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-
+          markdown_cache: .cache
+         
