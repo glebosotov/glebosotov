@@ -18,5 +18,5 @@ jobs:
           template: markdown
           filename: README.md
           markdown: >-
-            https://raw.githubusercontent.com/glebosotov/glebosotov/README_template.md
+            https://raw.githubusercontent.com/glebosotov/glebosotov/master/README_template.md
           config_output: markdown         
