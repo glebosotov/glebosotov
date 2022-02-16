@@ -15,8 +15,8 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          user: glebosotov
           template: markdown
-          markdown_cache: .cache
-         
+          filename: metrics.markdown.md
+          markdown: >-
+            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          config_output: markdown         
