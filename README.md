@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm glebosotov
 
 I joined GitHub on `17/12/2017`.
-I contributed to `41` repositories and made `801` commits.
+I contributed to `41` repositories and made `802` commits.
 
 ### Connect with me:
 
